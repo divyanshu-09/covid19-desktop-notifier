@@ -2,7 +2,7 @@
 This is a gui tool for live update of coronavirus patient data through pop-up notification.
 
 ## Demo
-![The GUI](https://ibb.co/BKvXgqt)
+![The GUI](https://ibb.co/BKvXgqt/GUI.png)
 ![Notifier](https://ibb.co/v1jwF55)
 
 ## Features
