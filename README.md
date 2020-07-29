@@ -2,8 +2,8 @@
 This is a gui tool for live update of coronavirus patient data through pop-up notification.
 
 ## Demo
-![The GUI](https://photos.app.goo.gl/i5q7M66iScb6m4RJ7)
-![Notifier](https://photos.app.goo.gl/BZspmWBGhF3X2w3x9)
+![The GUI](https://i.ibb.co/84GWj60/Annotation-2020-07-29-112703.png)
+![Notifier](https://i.ibb.co/Px6mLpp/Annotation-2020-07-29-112626.png)
 
 ## Features
 - Sit back and relax - the coronavirus updates will come to you.
