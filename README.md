@@ -27,3 +27,4 @@ pip install requests
 pip install beautifulsoup4
 ```
 - Clone this repo and start adding features
+In case error arises in line 14 and 55 it is due to the incorrect path of the icon, correct it in accordance to your system or comment it out.
