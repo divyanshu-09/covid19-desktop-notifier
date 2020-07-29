@@ -1,0 +1,27 @@
+# covid19-desktop-notifier
+This is a gui tool for live update of coronavirus patient data through pop-up notification.
+
+## Demo
+![The GUI](https://photos.google.com/search/_tra_/photo/AF1QipPOL3NZ58sfQlnMi_Q-hm3Vdr0u1lQLbQhal7Be(http://url/to/img.png)
+![Notifier](https://photos.google.com/search/_tra_/photo/AF1QipPImBI2lllYA7_jdYipaZoevj6U-GuBRgVORjzb)
+
+## Features
+- Sit back and relax - the coronavirus updates will come to you.
+- Get Desktop notifications
+  -  State wise data of patients
+  -  Total Cases in the state
+  -  Active patients
+  -  Death toll
+- Its reliable - the source of data is official Government site ([here](https://www.mygov.in/covid-19/))
+
+- Want to add a feature? Modify it! Raise a Pull Request too 😉
+
+## Installation
+- You need Python
+- Install dependencies by running
+```bash
+pip install plyer
+pip install tkinter
+pip install requests
+pip install beautifulsoup4
+```
