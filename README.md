@@ -3,8 +3,8 @@ This is a gui tool for live update of coronavirus patient data through pop-up no
 
 ## Demo
 ![The GUI](https://i.ibb.co/84GWj60/Annotation-2020-07-29-112703.png)
-![Dropdown](https://ibb.co/Qcj9F2P][img]https://i.ibb.co/mBFJCL9/Annotation-2020-07-29-112724.png)
-![Notifier](https://ibb.co/4S8B2z1][img]https://i.ibb.co/ZgByS52/Annotation-2020-07-29-124911.png)
+![Dropdown](https://i.ibb.co/mBFJCL9/Annotation-2020-07-29-112724.png)
+![Notifier](https://i.ibb.co/ZgByS52/Annotation-2020-07-29-124911.png)
 
 ## Features
 - Sit back and relax - the coronavirus updates will come to you.
