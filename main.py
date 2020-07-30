@@ -16,8 +16,6 @@ def notification(title,message):
     )
     exit()
 
-def flash():
-    plyer.facades.Flash.on()
 
 def webscrap(targetstate):
 
@@ -42,7 +40,6 @@ def webscrap(targetstate):
 def clicked():
     if(state.get()==''):
         notification('Oops no State name found!','You must enter a State\'s name!!')
-        flash()
     else:
         webscrap(state.get())
 
